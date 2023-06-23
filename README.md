@@ -9,7 +9,8 @@ Estudo de Rest API com Spring Boot
 - Júlia Parizotto
 
 ## Endpoints
-Link api:
+Banco de dados no ElephantSQL
+Link api: https://apiproduto-guilhermealbani2004.b4a.run/
 
 ### Autenticação
 - Sign in: /auth/signin
